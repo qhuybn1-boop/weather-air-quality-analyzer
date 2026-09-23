@@ -1,0 +1,23 @@
+{
+  "cities": [
+    {
+      "name": "Hanoi",
+      "lat": 21.0285,
+      "lon": 105.8542
+    },
+    {
+      "name": "HCMC",
+      "lat": 10.7769,
+      "lon": 106.7009
+    },
+    {
+      "name": "Da Nang",
+      "lat": 16.0544,
+      "lon": 108.2022
+    }
+  ],
+  "collection_interval": 3600,
+  "api_timeout": 10,
+  "retry_max": 5,
+  "retry_backoff": 2
+}
